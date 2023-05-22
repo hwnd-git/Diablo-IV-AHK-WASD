@@ -62,7 +62,7 @@ and should not be used in game.
 	
 ### POTENTIAL FOR IMPROVEMENT:
 1) Additional randomization for repetitive actions. Randomized delays between clicks, randomized coordinates of
-	click locations to 
+	click locations.
 2) Smoother transitions between switched directions to give the movement more contoller-like appearance.
 	For example by introducing 8 intermediate directions like N-NE or W-SW that script is triggering in
 	quick succession for a short, transitory period of time when the direction of movement changes between main
