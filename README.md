@@ -47,8 +47,7 @@ The script allows for player's character control in Diablo IV using popular 'WAS
 The legality of the script usage in game is debatable. According to Blizzard's EULA, paragraph 1Cii4:
 > any code and/or software, not expressly authorized by Blizzard, that can be used in connection with the Platform
 and/or any component or feature thereof which changes and/or facilitates the gameplay or other functionality;
-
-... may be susceptible to suspension or revoking your license to use their Platform.
+(...) ay be susceptible to suspension or revoking your license to use their Platform.
 
 Inquiring Blizzard Support regarding script's EULA compliance resulted in a kind and professional,
 yet evasive, inconclusive reply. For those reasons, please do note that this script is proof of concept only
