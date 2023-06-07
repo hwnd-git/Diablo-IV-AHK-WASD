@@ -1,4 +1,4 @@
-# Diablo-IV-AHK-WASD
+# Diablo-IV-AHK-WASD-POC
 AutoHotKey script rebinding WASD keys into mouse clicks. Allows to control character in Diablo IV with WASD control scheme (similar to Diablo: Immortal).
 
 ### TITLE:
