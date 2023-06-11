@@ -255,7 +255,6 @@ else
 {
 	SoundBeep, 1000, 10	
 	tmrMove.Stop()
-	isKiting := false
 	ControlClick, x%xCenter% y%yCenter%, A,, L, 1, NA
 }
 scriptPause := !scriptPause
@@ -274,7 +273,6 @@ return
 EmergencyStop:
 fullCombo := ""
 tmrMove.Stop()
-isKiting := false
 ControlClick, x%xCenter% y%yCenter%, A,, L, 1, NA
 SoundBeep, 5000, 10
 return
@@ -293,12 +291,6 @@ Move(dirCombination, isStopping := false, postMovementDelay := 0)
 	
 	if (!isStopping and isAnyDirPressed() == "")
 		return
-	
-	if isKiting
-	{
-		Send, {%kiteKey%}
-		sleep 50
-	}
 	
 	Switch dirCombination
 	{
